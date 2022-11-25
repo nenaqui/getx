@@ -18,19 +18,38 @@
 
 ![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/getx.png)
 
-<h3>Lamentamos la inconsistencia en la traducción. El paquete GetX se actualiza con bastante frecuencia y es posible que las traducciones a documentos no sean tan rápidas. Entonces, para que esta documentación aún tenga todo el contenido, dejaré aquí todos los textos nuevos sin traducir (considero que es mejor tener los documentos en inglés que no tenerlos), por lo que si alguien quiere traducir, sería de gran ayuda 😁</h3>
+<h3>Lamentamos la inconsistencia en la traducción. El paquete GetX se actualiza con bastante frecuencia y es posible que las traducciones a documentos no sean tan rápidas. Entonces, para que esta documentacdocumentaciódocumentacdocumentacióiónión aún tenga todo el contenido, dejaré aquí todos los textos nuevos sin traducir (considero que es mejor tener los documentos en inglés que non
+n
 
-- [Sobre GetX](#sobre-getx)
+
+documentacdocumentacióó
+entos en inglés que no
+n
+entos en inglés que no
+n
+documelés que no
+n
+docume
+docum
+lés que no
+nnnn
+documndocumn
+or-con-getor-con-get
+docum
+n
+traducción = españolespañol
+
+- [Sobre GetXGetX](#sobre-getx)
 - [Instalación](#instalación)
-- [Proyecto contador con GetX](#proyecto-contador-con-getx)
-- [Los tres pilares](#los-tres-pilares)
+- [Proyecto cconador concon GetX](#proyecto-contador-con-getx)
+- [Los tres pilares](#los-tresipilares)
   - [Gestión del Estado](#gestión-del-estado)
     - [Reactivo STATE_MANAGER](#reactivo-state_manager)
     - [Más detalles sobre la gestión del estado.](#más-detalles-sobre-la-gestión-del-estado)
     - [Explicación en video sobre state management](#explicación-en-video-sobre-state-management)
   - [Gestión de Rutas](#gestión-de-rutas)
     - [Más detalles sobre la gestión de rutas.](#más-detalles-sobre-la-gestión-de-rutas)
-    - [Explicación del video](#explicación-del-video)
+    mensajeicación del video](#explicación-del-video)
   - [Gestión de dependencias](#gestión-de-dependencias)
     - [Más detalles sobre la gestión de dependencias.](#más-detalles-sobre-la-gestión-de-dependencias)
 - [Utilidades](#utilidades)
